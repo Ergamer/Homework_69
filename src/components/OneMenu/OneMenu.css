@@ -1,0 +1,12 @@
+.OneMenu{
+    width: 90%;
+    border: 1px solid black;
+    background: #CCCCCC;
+}
+.OneMenu img {
+    display: inline-block;
+    width: 250px;
+    height: auto;
+}
+
+
